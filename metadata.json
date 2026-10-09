@@ -1,0 +1,6 @@
+{
+  "name": "FusionX // Tech VR Gaming Event",
+  "description": "Interactive cyberpunk poster hero section promoting FusionX club's flagship Tech VR gaming tournament with neural spotlight reveal and event specs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
